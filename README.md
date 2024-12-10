@@ -48,9 +48,10 @@ The dashboard section offers an array of visualizations that empower users to ex
 - Comparison of Sales Across Different Categories: Detailed comparisons of sales by product type, packaging type, manufacturer, brands, items, and distribution channels.
 - KPIs: Key Performance Indicators such as revenue, sales volume, year-over-year sales, year-over-year growth rate, and items sold.
 
-![Screenshot 2024-12-09 030022](https://github.com/user-attachments/assets/6bf46b8a-b2e2-4fa7-8e71-fab4ed1ab226)
-![Screenshot 2024-12-10 161532](https://github.com/user-attachments/assets/4bd41c54-07f7-4bc8-9040-1e395a18d481)
-![Screenshot 2024-12-10 161607](https://github.com/user-attachments/assets/e0ec232d-0176-4759-afdd-ce54288cc630)
+![Screenshot 2024-12-10 180638](https://github.com/user-attachments/assets/a157c1f9-c319-490b-a6d9-78aa402ed7bd)
+![Screenshot 2024-12-10 180821](https://github.com/user-attachments/assets/f25e9470-1d00-4475-8bba-0ca4ccfe464d)
+![Screenshot 2024-12-10 180900](https://github.com/user-attachments/assets/96770598-42f2-4768-99a1-64608d8a38a8)
+
 
 **[Click here to access the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2YxZDQ5ZmItMTEwOC00ZDdkLWIxM2YtNjNhZjNmOWFlMGZkIiwidCI6ImY0M2MzMTgyLTcxZjAtNGRjOS04YjA0LTc0OTMwZTNmOGNkYSJ9)** 
 
