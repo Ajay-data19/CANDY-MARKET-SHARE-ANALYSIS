@@ -1,4 +1,5 @@
 # Confectionery Market Share Analysis
+![confectionery-industry-typographic-header-delicious-pastry-food-sweets-factory-bread-chocolate-caramel-manufacturing-process-isolated-flat-vector-illustration_277904-13228](https://github.com/user-attachments/assets/d6fede54-d965-4129-929e-3406bc61593e)
 
 
 
