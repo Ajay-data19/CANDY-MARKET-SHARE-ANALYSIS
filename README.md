@@ -1,4 +1,4 @@
-# CANDY MARKET SHARE ANALYSIS
+# Confectionery Market Share Analysis
 
 
 
