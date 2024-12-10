@@ -49,4 +49,7 @@ The dashboard section offers an array of visualizations that empower users to ex
 - KPIs: Key Performance Indicators such as revenue, sales volume, year-over-year sales, year-over-year growth rate, and items sold.
 
 ![Screenshot 2024-12-09 030022](https://github.com/user-attachments/assets/6bf46b8a-b2e2-4fa7-8e71-fab4ed1ab226)
+![Screenshot 2024-12-10 161532](https://github.com/user-attachments/assets/4bd41c54-07f7-4bc8-9040-1e395a18d481)
+![Screenshot 2024-12-10 161607](https://github.com/user-attachments/assets/e0ec232d-0176-4759-afdd-ce54288cc630)
 
+**[Click here to access the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWU0OWFmMWUtOTg2Yy00YTliLWJhZmMtMzFmZjdlMjM5OGU5IiwidCI6ImY0M2MzMTgyLTcxZjAtNGRjOS04YjA0LTc0OTMwZTNmOGNkYSJ9)** 
