@@ -48,4 +48,5 @@ The dashboard section offers an array of visualizations that empower users to ex
 - Comparison of Sales Across Different Categories: Detailed comparisons of sales by product type, packaging type, manufacturer, brands, items, and distribution channels.
 - KPIs: Key Performance Indicators such as revenue, sales volume, year-over-year sales, year-over-year growth rate, and items sold.
 
-()
+![Screenshot 2024-12-09 030022](https://github.com/user-attachments/assets/6bf46b8a-b2e2-4fa7-8e71-fab4ed1ab226)
+
