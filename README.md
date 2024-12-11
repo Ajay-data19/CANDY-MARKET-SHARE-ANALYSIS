@@ -86,7 +86,7 @@ Project relies on the following key technologies:
 - `Power BI Desktop` Design, visualization, and interactive reporting.
 - `DAX (Data Analysis Expressions)` Creation of calculations and measures supporting data visualizations.
 - `Power Query` Clean and transform raw data into a structured format.
-- 
+ 
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code and visuals as long as the original license terms are maintained.
 
